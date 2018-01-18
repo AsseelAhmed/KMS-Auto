@@ -1,2 +1,5 @@
 # KMS-Auto
-#Click Clone Download
+#Click Clone or Download
+>>ZIP
+
+![alt tag](http://url/to/img.png)
